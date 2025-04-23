@@ -1,0 +1,9 @@
+{
+  "title": "月度銷售報表",
+  "date": "2025-04-23",
+  "items": [
+    {"name": "產品A", "quantity": 10, "price": 100},
+    {"name": "產品B", "quantity": 5, "price": 200},
+    {"name": "產品C", "quantity": 2, "price": 500}
+  ]
+}
