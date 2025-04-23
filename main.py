@@ -15,7 +15,7 @@ data = {
 }
 
 # 2. 使用 Jinja2 渲染 HTML 模板
-env = Environment(loader=FileSystemLoader("template"))
+env = Environment(loader=FileSystemLoader(""))
 template = env.get_template("template.html")
 html_out = template.render(data)
 
